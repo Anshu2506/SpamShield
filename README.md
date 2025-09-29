@@ -35,7 +35,7 @@ This project uses a dataset of SMS messages labeled as "spam" or "ham", and buil
 
 ### Example 1 – Spam Prediction
 
-![Spam Example 1](screenshots/Screenshot1.png)
+![Spam Example 1]([screenshots/Screenshot1.png](https://github.com/Anshu2506/SpamShield/blob/main/Screenshot%202025-09-29%20154422.png?raw=true))
 
 ---
 
